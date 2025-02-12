@@ -22,7 +22,7 @@
 ## Let's Connect
 - 📧 [Email](mailto:davide.balice@gmail.com)
 - 💼 [LinkedIn]([https://www.linkedin.com/in/davide-balice-46b36b30](https://www.linkedin.com/in/davide-balice-46b36b30/)
-- 📝 [Website - www.davidebalice.dev]([https://www.davidebalice.dev](https://www.davidebalice.dev)
+- 📝 [Website]([https://www.davidebalice.dev](https://www.davidebalice.dev)
 
  
 <!--

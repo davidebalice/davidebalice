@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello world, I'm Davide Balice 👋
+
+💻 I am a Full Stack Developer with a strong inclination for continuously learning new technologies and programming languages. My core skills include JavaScript, React, Angular, Node.js, PHP Laravel, SQL, MongoDB, and Spring Boot. I am always looking for new challenges to expand my abilities and skills.
+
+
+
 
 <!--
 **davidebalice/davidebalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

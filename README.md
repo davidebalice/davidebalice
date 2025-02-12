@@ -21,8 +21,8 @@
 
 ## Let's Connect
 - 📧 [Email](mailto:davide.balice@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hidran](https://www.linkedin.com/in/davide-balice-46b36b30/)
-- 📝 [Website](https://www.davidebalice.dev)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/davide-balice-46b36b30](https://www.linkedin.com/in/davide-balice-46b36b30/)
+- 📝 [Website]([https://www.davidebalice.dev]https://www.davidebalice.dev)
 - 
 <!--
 **davidebalice/davidebalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
